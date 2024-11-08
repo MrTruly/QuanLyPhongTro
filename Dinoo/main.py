@@ -12,6 +12,6 @@ def main():
             start_game_with_skin(
                 skins[selected_skin]["ingame"], skins[selected_skin]["ingame_ducking"])
 
-
+0
 if __name__ == "__main__":
     main()
